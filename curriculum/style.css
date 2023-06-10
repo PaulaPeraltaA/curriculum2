@@ -1,0 +1,88 @@
+h1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+}
+
+h2{
+    color: #4682B4;
+    font-size: 20pt;
+}
+
+body{
+    background-color:snow;
+    padding-left: 20px;
+}
+
+p{
+    font-size: 14pt;
+}
+
+.sdiv1{
+    width:250px;
+    text-align:center;
+    float: left;
+}
+
+.sdiv2{
+    width:280px;
+    text-align:center;
+    float: left;
+    margin-left: 194px;
+}
+
+#lista1 {
+    display: inline;
+    padding-left: 6px;
+    padding-right: 6px;
+}
+
+#bajo {
+    text-align: center;
+    background-color: cornflowerblue;
+}
+
+#formulario {
+    background-color: lightblue;
+    padding: 20px;
+    align-content: center;
+}
+
+header {
+    background-color: #4682B4;
+}
+
+
+#video{
+    align-items: center;
+}
+
+.grid1{
+    display: grid;
+    grid-template-columns: 700px 700px;
+    grid-template-rows: 250px 200px;
+    
+}
+
+.grid2{
+    display: grid;
+    grid-template-columns: 700px 800px;
+    grid-template-rows: 500px 500px;
+}
+
+td{
+    border-radius: 5px;
+    border: 3px solid #4682B4;
+}
+
+#redesDiv {
+    display: grid;
+    grid-template-columns: 90px 90px 90px 90px;
+}
+
+#mapa{
+   justify-content: center;
+}
+
+
+
+
